@@ -1,0 +1,17 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/bootstrap-vue/src/index.scss";
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700&display=swap');
+
+$body-bg: #29292e;
+$body-color: #fafafa;
+$default-margin: 30px 25% auto;
+$navy: #252d40;
+$navy-faded: #35415c;
+
+body{
+    font-family: 'Sen', sans-serif;
+
+    background-color: $navy;
+    color: $body-color;
+
+}
